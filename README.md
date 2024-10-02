@@ -13,6 +13,6 @@ The goal of this project is to develop an automatic method for detecting blood v
 
 **Future work:** In future work, it would be valuable to combine the steps of this classical approach with deep learning models to automate the detection and identify vessels that are less visually explicit. However, this would require the availability of large, labeled datasets. Additionally, integrating the images with knowledge and insights provided by medical professionals would be beneficial in a deep learning approach.
 
-The project was under the supervision of Professor Isabelle Bloch.
-
 ![Schema](./schema.png)
+
+The project was under the supervision of Professor Isabelle Bloch.
